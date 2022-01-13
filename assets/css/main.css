@@ -124,6 +124,7 @@ input, select, textarea {
 	strong, b {
 		color: #787878;
 		font-weight: 400;
+    font-size: 40px
 	}
 
 	em, i {
@@ -1767,7 +1768,7 @@ input, select, textarea {
 	header p {
 		color: #b2b2b2;
 		position: relative;
-		margin: 0 0 1.5em 0;
+		margin: 0 0 1.5em 7em;
 	}
 
 	header h2 + p {
@@ -2640,18 +2641,30 @@ input, select, textarea {
 		}
 
 		#header .image.avatar {
-			margin: 0 0 1em 0;
-			width: 6.25em;
-		}
+			margin: 0 0 2em 0;
+      height: 200px;
+      width: 200px;
+    }
+
+    .skill-img {
+      height: 55px;
+      width: 65px;
+      padding-right: 15px;
+    }
+
+  
 
 /* Footer */
 
 	#footer .icons {
 		margin: 1em 0 0 0;
+    height: 20px;
 	}
 
 		#footer .icons a {
 			color: rgba(255, 255, 255, 0.4);
+      height: 40px;
+      width: 40px;
 		}
 
 	#footer .copyright {
