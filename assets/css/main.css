@@ -2132,8 +2132,6 @@ input, select, textarea {
       height: auto;
 		}
 
-
-
 			.image.fit img {
 				width: 100%;
 			}
@@ -2159,6 +2157,11 @@ input, select, textarea {
 
       .project-title:hover {
         color: #49bf9d;
+      }
+
+      .skill-img {
+        height: 30px;
+        width: 30px;
       }
 
 /* List */
@@ -2660,8 +2663,8 @@ input, select, textarea {
     }
 
     .skill-img {
-      height: 55px;
-      width: 65px;
+      height: 70px;
+      width: 85px;
       padding-right: 15px;
     }
 
