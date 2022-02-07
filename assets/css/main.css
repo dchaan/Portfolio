@@ -2662,10 +2662,14 @@ input, select, textarea {
       width: 200px;
     }
 
+    .skill-container {
+      display: flex;
+      justify-content: space-between;
+    }
+
     .skill-img {
-      height: 70px;
-      width: 85px;
-      padding-right: 15px;
+      height: 65px;
+      width: auto;
     }
 
 /* Footer */
