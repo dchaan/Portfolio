@@ -99,7 +99,7 @@ input, select, textarea {
 		}
 
 	body, input, select, textarea {
-		color: #a2a2a2;
+		color: white;
     background-color: black;
 		font-family: "Source Sans Pro", Helvetica, sans-serif;
 		font-size: 14pt;
@@ -138,7 +138,7 @@ input, select, textarea {
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #a2a2a2;
+		color: white;
 		font-weight: 400;
 		line-height: 1em;
 		margin: 1em 0 1em 0;
@@ -1768,7 +1768,7 @@ input, select, textarea {
 	}
 
 	header p {
-		color: #a2a2a2;
+		color: white;
 		position: relative;
 		margin: 0 0 1.5em 7em;
 	}
@@ -1902,7 +1902,7 @@ input, select, textarea {
 		input[type="checkbox"] + label,
 		input[type="radio"] + label {
 			text-decoration: none;
-			color: #a2a2a2;
+			color: white;
 			cursor: pointer;
 			display: inline-block;
 			font-size: 1em;
@@ -2156,7 +2156,7 @@ input, select, textarea {
       .project-title {
         margin-bottom: 0;
         font-size: 28px;
-        border-bottom: 1px solid #A2A2A2;
+        border-bottom: 1px solid white;
       }
 
       .project-title:hover {
@@ -2263,14 +2263,14 @@ input, select, textarea {
 			}
 
       .edu {
-        color: #a2a2a2;
+        color: white;
         font-size: 1.1em;
       }
     
 
       .edu b {
         font-size: 1.2em;
-        color: #a2a2a2;
+        color: white;
       }
 
 /* Actions */
@@ -2658,16 +2658,16 @@ input, select, textarea {
 		}
 
 		#header strong, #header b {
-			color: #a2a2a2;
+			color: white;
       font-size: 2.2em;
 		}
 
 		#header h2, #header h3, #header h4, #header h5, #header h6 {
-			color: #a2a2a2;
+			color: white;
 		}
 
 		#header h1 {
-			color: #a2a2a2;
+			color: white;
 			font-size: 1.35em;
 			line-height: 1.75em;
 			margin: 0;
@@ -2697,11 +2697,11 @@ input, select, textarea {
 	}
 
 		#footer .icons a {
-			color: #a2a2a2;
+			color: white;
 		}
 
 	#footer .copyright {
-		color: #a2a2a2;
+		color: white;
 		font-size: 0.8em;
 		list-style: none;
 		margin: 1em 0 0 0;
@@ -2709,7 +2709,7 @@ input, select, textarea {
 	}
 
 		#footer .copyright li {
-			border-left: solid 1px #a2a2a2;
+			border-left: solid 1px white;
 			display: inline-block;
 			line-height: 1em;
 			margin-left: 0.75em;
@@ -2735,7 +2735,7 @@ input, select, textarea {
 	}
 
 		#main > section {
-			border-top: solid 2px #a2a2a2;
+			border-top: solid 2px white;
 			margin: 4em 0 0 0;
 			padding: 4em 0 0 0;
 		}
