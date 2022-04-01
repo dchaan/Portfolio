@@ -1,4 +1,4 @@
-# [Portofilio](https://dchaan.github.io/Portfolio/)
+# [Portfolio](https://dchaan.github.io/Portfolio/)
 
 Strata by HTML5 UP
 html5up.net | @ajlkn
