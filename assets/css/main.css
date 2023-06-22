@@ -1770,7 +1770,6 @@ input, select, textarea {
 	header p {
 		color: white;
 		position: relative;
-		margin: 0 0 1.5em 7em;
 	}
 
 	header h2 + p {
@@ -2134,6 +2133,7 @@ input, select, textarea {
 			margin: 0 0 2em 0;
 			width: 100%;
       height: auto;
+      bottom: 0;
 		}
 
 			.image.fit img {
@@ -2163,9 +2163,10 @@ input, select, textarea {
         color: #49bf9d;
       }
 
-      .skill-img {
-        height: 30px;
-        width: 30px;
+      .work-title {
+        margin-bottom: 0;
+        font-size: 20px;
+        border-bottom: 1px solid white;
       }
 
 /* List */
@@ -2220,7 +2221,6 @@ input, select, textarea {
 
 		ul.icons li {
 			display: inline-block;
-			padding: 0 2em 0 0;
 		}
 
 			ul.icons li:last-child {
@@ -2687,6 +2687,12 @@ input, select, textarea {
     .skill-img {
       height: 65px;
       width: auto;
+      bottom: 0;
+    }
+
+    .skill-img-small {
+      height: 60px;
+      width: auto;
     }
 
 /* Footer */
@@ -2737,7 +2743,6 @@ input, select, textarea {
 		#main > section {
 			border-top: solid 2px white;
 			margin: 4em 0 0 0;
-			padding: 4em 0 0 0;
 		}
 
 			#main > section:first-child {
