@@ -2685,10 +2685,23 @@ input, select, textarea {
       justify-content: space-between;
     }
 
+    .skill-container-2 {
+      display: flex;
+      justify-content: space-start;
+    }
+
     .skill-img {
       height: 65px;
       width: auto;
       bottom: 0;
+    }
+
+    .skill-img-2 {
+      height: 65px;
+      width: auto;
+      bottom: 0;
+      padding-right: 14px;
+
     }
 
     .skill-img-small {
